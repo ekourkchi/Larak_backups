@@ -1,0 +1,32 @@
+#!/usr/bin/csh
+
+echo	`./sersic_mklist.csh	23	427`	23	427	29509	35	7	16.39	63.38	2.38	>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	24	1`	24	1	30724	29	8	18.16	65.34	2.27	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	25	638`	25	638	30949	19	9	17	67.88	1.32	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	25	3`	25	3	31487	13	8	17.76	43.3	1.52	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	23	1583`	23	1583	31754	63	9	18.77	44.78	1.75	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	24	687`	24	687	32909	35	7	17.38	28.6	3.06	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	22	649`	22	649	32936	17	6	18.46	39.45	1.48	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	22	1017`	22	1017	33266	52	9	16.6	99.91	2.17	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	16	1`	16	1	35586	145	7	14.51	70.64	4.66	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	16	1166`	16	1166	36644	32	7	18.25	55.92	1.66	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	1201`	18	1201	37235	33	7	17.44	47.72	1.18	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	19	2782`	19	2782	37404	51	9	17.82	9.87	3.5	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	15	2363`	15	2363	38296	35	8	17.91	66.94	1.48	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	2990`	18	2990	38533	38	9	17.47	71.51	1.11	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	1`	18	1	39535	39	8	17.53	60.93	2.09	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	3649`	18	3649	39558	37	8	16.97	71.43	1.69	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	16	2282`	16	2282	39750	27	7	18.64	41.86	1.31	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	13	467`	13	467	40265	79	8	16.07	69.25	1.07	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	19	2183`	19	2183	40538	38	8	16.21	72.19	2.36	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	09	928`	09	928	41394	35	8	17.7	49.05	1.33	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	12	137`	12	137	41814	30	6	18.34	37.37	1.27	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	12	1999`	12	1999	42412	31	6	17.35	30.85	2.05	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	13	206`	13	206	42489	26	8	17.78	47.02	1.55	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	13	1`	13	1	42645	35	8	17.55	41.76	1.69	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	12	974`	12	974	43889	21	8	18.12	75.96	1.57	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	22	691`	22	691	90026	25	9	18.93	51.22	2.02	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	16	543`	16	543	90037	45	9	19.08	41.93	1.3	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	3176`	18	3176	98001	59	11	19.51	38.6	1.64	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	18	2692`	18	2692	98002	34	9	19.27	47.79	1.67	>>	deimos.all.sersic.sigma.lst
+echo	`./sersic_mklist.csh	23	2062`	23	2062	98005	69	9	19.48	23.1	1.23	>>	deimos.all.sersic.sigma.lst

@@ -1,0 +1,17 @@
+./eccess_light.csh	03	1738	 > cody.all.eccess.lst
+./eccess_light.csh	14	275	 >> cody.all.eccess.lst
+./eccess_light.csh	18	3649	 >> cody.all.eccess.lst
+./eccess_light.csh	18	1	 >> cody.all.eccess.lst
+./eccess_light.csh	19	2183	 >> cody.all.eccess.lst
+./eccess_light.csh	23	219	 >> cody.all.eccess.lst
+./eccess_light.csh	23	427	 >> cody.all.eccess.lst
+./eccess_light.csh	25	3	 >> cody.all.eccess.lst
+./eccess_light.csh	33	1323	 >> cody.all.eccess.lst
+./eccess_light.csh	45	1489	 >> cody.all.eccess.lst
+./eccess_light.csh	45	10	 >> cody.all.eccess.lst
+./eccess_light.csh	46	851	 >> cody.all.eccess.lst
+./eccess_light.csh	46	1225	 >> cody.all.eccess.lst
+./eccess_light.csh	59	1	 >> cody.all.eccess.lst
+./eccess_light.csh	63	222	 >> cody.all.eccess.lst
+./eccess_light.csh	75	1083	 >> cody.all.eccess.lst
+./eccess_light.csh	90	779	 >> cody.all.eccess.lst

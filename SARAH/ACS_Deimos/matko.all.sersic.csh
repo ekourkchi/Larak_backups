@@ -1,0 +1,47 @@
+#!/usr/bin/csh
+
+
+echo  `./sersic_mklist.csh 01 1550` 01 1550 2489  > matko.all.sersic.lst
+echo  `./sersic_mklist.csh 03 2495` 03 2495 2922  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 03 573` 03 573 2805  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 03 527` 03 527 2784  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 03 1738` 03 1738 2879  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 03 1525` 03 1525 2861  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 08 1703` 08 1703 2529  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 09 928` 09 928 2676  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 10 2150` 10 2150 2940  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 10 825` 10 825 2839  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 10 2689` 10 2689 2960  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 12 1999` 12 1999 3312  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 12 137` 12 137 3209  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 13 206` 13 206 3438  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 14 2010` 14 2010 3780  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 14 275` 14 275 3681  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 14 861` 14 861 3707  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 15 479` 15 479 2516  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 15 338` 15 338 2510  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 15 925` 15 925 2535  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 16 2899` 16 2899 2799  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 16 1` 16 1 2654  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 18 1` 18 1 3018  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 18 1201` 18 1201 3098  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 18 3492` 18 3492 3170  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 18 3649` 18 3649 3166  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 19 2183` 19 2183 3292  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 19 379` 19 379 3269  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 19 509` 19 509 3254  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 19 1` 19 1 3213  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 19 4949` 19 4949 3367  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 22 962` 22 962 2585  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 22 284` 22 284 2541  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 23 1536` 23 1536 2778  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 23 219` 23 219 2692  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 24 2611` 24 2611 3034  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 24 1966` 24 1966 3017  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 25 2432` 25 2432 3222  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 25 1901` 25 1901 3201  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 25 1` 25 1 3068  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 25 638` 25 638 3131  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 25 818` 25 818 3133  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 33 1030` 33 1030 3400  >> matko.all.sersic.lst
+echo  `./sersic_mklist.csh 33 1` 33 1 3339  >> matko.all.sersic.lst

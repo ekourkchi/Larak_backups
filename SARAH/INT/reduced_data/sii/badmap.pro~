@@ -1,0 +1,21 @@
+pro badmap, filename
+
+
+fits_read, filename, image, h
+
+nx= sxpar(h,'NAXIS1')
+ny= sxpar(h,'NAXIS2')
+
+for i=0, nx-1 do begin
+
+  for j=0, ny-1 do begin
+  if image[i,j] gt 0.0 then  image[i,j]=1.
+
+endfor
+endfor
+
+fits_write, 'esn'+filename, image, h
+
+end
+
+

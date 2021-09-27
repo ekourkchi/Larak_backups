@@ -1,0 +1,36 @@
+pro plot_phenomenon_FPHOT, psout
+
+
+
+
+ps_on , psout, noask='y', /color, cc=cc
+device,filename=psout,xsize=20,ysize=20,xoffset=2.2
+!y.margin=5
+!x.margin=8.
+
+multiplot,/reset   
+!p.multi=[0,2,1,0,0]
+ythickformat_origin=!y.tickformat
+ythickname_origin=!y.tickname
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+multiplot
+i=1
+j=2
+xtitl="log(Re)-4.59*log(!7r!X)+27.11"
+ytitl="<!7l!X!De!N>!D(F814W)!N [mag/arcsec!U2!N]"
+delx=0
+
+
+
+
+
+
+ps_off
+
+
+
+
+end

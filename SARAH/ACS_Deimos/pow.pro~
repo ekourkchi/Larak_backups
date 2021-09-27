@@ -1,0 +1,8 @@
+pro pow, n
+
+openw, out, 'temp.tmp', /get_lun
+printf, out, k+1,ra0[k],dec0[k],d
+close,out
+free_lun,out
+
+end

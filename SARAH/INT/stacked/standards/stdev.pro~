@@ -1,0 +1,11 @@
+function stdev, array
+compile_opt idl2, hidden
+
+b=2.
+return, b
+
+
+
+end
+
+
